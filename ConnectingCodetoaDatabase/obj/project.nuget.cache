@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dTC+C6S3DNeXKf3cF7Na2VBCnPSEdB3xbXLmFWVBNVX/WkyvE5SPg0op35bMeNXe99608HUnht/5OgLLB3JPfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Momow\\source\\repos\\OOPS 2\\ConnectingCodetoaDatabase\\ConnectingCodetoaDatabase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Momow\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\Momow\\.nuget\\packages\\mysqlconnector\\2.3.6\\mysqlconnector.2.3.6.nupkg.sha512"
+  ],
+  "logs": []
+}
